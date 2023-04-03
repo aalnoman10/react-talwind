@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Earbuds",
+        "price": 10.99,
+        "features": [
+            "bassdcffic",
+            "cancelling technology",
+            "Wireless connectivity",
+            "Long battery life"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Travel Backpack",
+        "price": 24.99,
+        "features": [
+            "basic fsgvd",
+            "quality materials",
+            "Durable construction"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Yoga Mat",
+        "price": 15.49,
+        "features": [
+            "hdd dfg",
+            "Easy to clean",
+            "Non-slip grip"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Running Armband",
+        "price": 7.99,
+        "features": [
+            "nate monitor ",
+            "Water-resistant",
+            "Reflective detailing"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Smartwatch",
+        "price": 32.99,
+        "features": [
+            "basic Heart rat",
+            "Heart rate monitor",
+            "Smart notifications"
+        ]
+    }
+]
